@@ -35,7 +35,7 @@
     "decimal.js": "10.4.3",
     "dotenv": "^16.4.5",
     "ethereumjs-util": "7.0.10",
-    "ethers": "5.6.9",
+    "ethers": "6.0.0",
     "evaa-liquidator": "./",
     "sort-deep-object-arrays": "^1.1.2",
     "sqlite": "^5.0.1",
